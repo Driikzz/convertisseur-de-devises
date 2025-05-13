@@ -1,12 +1,36 @@
-# React + Vite
+# Convertisseur de Devises
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un convertisseur de devises simple développé avec React et Vite.
 
-Currently, two official plugins are available:
+## Fonctionnalités
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔄 Conversion instantanée entre EUR et USD
+- 💱 Interface utilisateur intuitive et responsive
+- 🔀 Bouton d'inversion rapide des devises
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/votre-nom/convertisseur-devise.git
+   cd convertisseur-devise
+   ```
+
+2. Installez les dépendances :
+   ```bash
+   npm install
+   ```
+
+3. Lancez l'application en mode développement :
+   ```bash
+   npm run dev
+   ```
+   
+4. Ouvrez [http://localhost:5173](http://localhost:5173) dans votre navigateur.
+
+## Technologies utilisées
+
+- React 19.1.0
+- Vite 6.3.5
+- CSS personnalisé (sans framework)
+
