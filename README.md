@@ -12,7 +12,7 @@ Un convertisseur de devises simple développé avec React et Vite.
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-nom/convertisseur-devise.git
+   git clone https://github.com/driikzz/convertisseur-devise.git
    cd convertisseur-devise
    ```
 
