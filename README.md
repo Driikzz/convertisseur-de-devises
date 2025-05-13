@@ -4,9 +4,9 @@ Un convertisseur de devises simple développé avec React et Vite.
 
 ## Fonctionnalités
 
-- 🔄 Conversion instantanée entre EUR et USD
-- 💱 Interface utilisateur intuitive et responsive
-- 🔀 Bouton d'inversion rapide des devises
+- Conversion instantanée entre EUR et USD
+- Interface utilisateur intuitive et responsive
+- Bouton d'inversion rapide des devises
 
 ## Installation
 
